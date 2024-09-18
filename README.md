@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando TypeScript, React e node.
-- 
+- 🔭 I work with Front-End today.
+- 🌱 I'm studying typescript.js, react.js and python.
+  
 
 <div>
   <a href="https://github.com/evandrobrto">
